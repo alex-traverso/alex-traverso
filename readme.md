@@ -1,18 +1,18 @@
-![alt README header](![video-banner](https://github.com/alex-traverso/alex-traverso/assets/73973820/5486b27f-a942-4f47-be88-84b255164ee6)
-)
+<img src="https://github.com/alex-traverso/alex-traverso/assets/73973820/
+5486b27f-a942-4f47-be88-84b255164ee6"/>
 
-##
-
-<h3 align="center" style="font-size: 40px">
-  Bienvenidos a mi perfil!
+<h3 style="font-size: 40px">
+  Hi, I'm Alex!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-## Acerca de mi 😃
+## About me 😃
 
-Desarrollador Front-End y licenciado en la carrera de Diseño Multimedia e Interacción en UADE. Me considero una persona interesada en el mundo IT, especialmente en el desarrollo web. Siempre en búsqueda de nuevos desafíos que permitan desarrollar mis conocimientos, en conjunto de la obtención de los objetivos del cliente. Capaz de trabajar de forma autónoma o en equipo, estableciendo nexos profesionales cordiales.
+<p>
+Front-End Developer and graduate in Multimedia Design and Interaction from UADE. I consider myself a person interested in the IT world, particularly in web development. Always in search of new challenges that allow me to expand my knowledge, while achieving client objectives. Capable of working independently or as part of a team, establishing cordial professional connections.
+</p>
 
-💻 Te invito a ver mi portfolio [portfolio](https://portfolio-alex-traverso.vercel.app/)
+- 💻 [My portfolio](https://portfolio-alex-traverso.vercel.app/)
 
 <br>
 
@@ -20,18 +20,36 @@ Desarrollador Front-End y licenciado en la carrera de Diseño Multimedia e Inter
 
 <p align="center">
 
-   <img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" height="40" alt="HTML" />
-   <img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" width="40" height="40" alt="CSS" />
-   <img src="https://user-images.githubusercontent.com/64439609/212556085-e6f8391a-6f25-43d5-8bfe-818167047cfb.png" width="40" height="40" alt="JS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+<img src="https://static-00.iconduck.com/assets.00/nextjs-icon-2048x1234-pqycciiu.png" height="50" alt="nextjs logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="redux logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase logo"  />
+  <img width="15" />
 
 <br>
 </p>
-
-<div align="center" style="background:#414a50; padding: 25px 0;">
-    <a href="https://twitter.com/ThisIsIvoLondon">
-        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/twitter.svg" alt="Follow me on twitter">
-    </a>
-     <a href="https://www.linkedin.com/in/ivelin-iliev-16272baa/">
-        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
-    </a>
-</div>

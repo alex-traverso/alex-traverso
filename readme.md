@@ -1,4 +1,5 @@
-![alt README header]()
+![alt README header](![video-banner](https://github.com/alex-traverso/alex-traverso/assets/73973820/5486b27f-a942-4f47-be88-84b255164ee6)
+)
 
 ##
 

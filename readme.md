@@ -12,7 +12,7 @@
 Front-End Developer and graduate in Multimedia Design and Interaction from UADE. I consider myself a person interested in the IT world, particularly in web development. Always in search of new challenges that allow me to expand my knowledge, while achieving client objectives. Capable of working independently or as part of a team, establishing cordial professional connections.
 </p>
 
-- 💻 [My portfolio](https://portfolio-alex-traverso.vercel.app/)
+- 💻 [My portfolio](https://portfolio-alpha-ten-64.vercel.app/)
 
 <br>
 
